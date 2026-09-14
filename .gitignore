@@ -1,0 +1,9 @@
+test_data/
+backups/
+backup.log
+launchd_stdout.log
+launchd_stderr.log
+cron_debug.log
+backup_config.json
+__pycache__/
+*.pyc
